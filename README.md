@@ -32,7 +32,7 @@ Install the dependencies and start the server.
 ```sh
 git clone https://github.com/sc4rfurry/poSSh.git
 cd poSSh
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 python3 main.py [port]
 ```
 ### Client
